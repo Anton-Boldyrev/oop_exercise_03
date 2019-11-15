@@ -1,0 +1,62 @@
+Go:
+a - to add figure
+d - to delete figure
+f - to print area and center of figure
+t - to print total area of all figures
+e - to complite programme execution
+h - to show this manual
+a
+chose figure:
+1 - rectangle
+2 - trapezoid
+3 - square
+1
+0 0 0 4 2 4 2 0
+a
+chose figure:
+1 - rectangle
+2 - trapezoid
+3 - square
+2 
+0 0 
+0 5
+2 4
+2 1
+a
+chose figure:
+1 - rectangle
+2 - trapezoid
+3 - square
+3
+0 0 
+0 1
+1 1
+1 0
+h
+Go:
+a - to add figure
+d - to delete figure
+f - to print area and center of figure
+t - to print total area of all figures
+e - to complite programme execution
+h - to show this manual
+f
+Center: 1 2
+Area: 8
+Center: 1 2.5
+Area: 8
+Center: 0.5 0.5
+Area: 1
+t
+total area: 17
+d
+enter index
+1
+t
+total area: 9
+f
+Center: 1 2
+Area: 8
+Center: 0.5 0.5
+Area: 1
+e
